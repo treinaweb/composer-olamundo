@@ -1,6 +1,6 @@
 {
     "name": "treinaweb/composer-olamundo",
-    "description": "Pacote de exemplo criado no curso de composer da Treinaweb",
+    "description": "Pacote de exemplo criado no curso de composer da Treinaweb.",
     "type": "library",
     "license": "MIT",
     "authors": [
